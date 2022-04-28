@@ -4,13 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/mailt/AndroidStudioProjects/Chatter/app/src/main/res/drawable/custom_input.xml" value="0.1125" />
-        <entry key="..\:/Users/mailt/AndroidStudioProjects/Chatter/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/mailt/AndroidStudioProjects/Chatter/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/mailt/AndroidStudioProjects/Chatter/app/src/main/res/layout/activity_main2.xml" value="0.1265625" />
         <entry key="..\:/Users/mailt/AndroidStudioProjects/Chatter/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
         <entry key="..\:/Users/mailt/AndroidStudioProjects/Chatter/app/src/main/res/layout/activity_splash.xml" value="0.1265625" />
         <entry key="..\:/Users/mailt/AndroidStudioProjects/Chatter/app/src/main/res/layout/fragment_calls.xml" value="0.1" />
         <entry key="..\:/Users/mailt/AndroidStudioProjects/Chatter/app/src/main/res/layout/fragment_chats.xml" value="0.1" />
         <entry key="..\:/Users/mailt/AndroidStudioProjects/Chatter/app/src/main/res/layout/fragment_status.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/mailt/AndroidStudioProjects/Chatter/app/src/main/res/menu/menu.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>

@@ -7,6 +7,7 @@ import androidx.fragment.app.FragmentTransaction;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 import com.example.chatter.Fragments.fragmentCalls;
@@ -15,6 +16,7 @@ import com.example.chatter.Fragments.fragmentStatus;
 
 public class MainActivity extends AppCompatActivity {
     Button btncall,btnstatus,btnchats;
+    ImageView menu;
 
 
     @Override
@@ -26,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         btncall = findViewById(R.id.btnCalls);
         btnchats = findViewById(R.id.btnChats);
         btnstatus = findViewById(R.id.btnStatus);
+
 
 
 
